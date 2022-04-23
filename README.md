@@ -35,7 +35,9 @@ void Plain_Edit_Text::on_tab_edit_tabCloseRequested(int index)
    ui->tab_edit->removeTab(index);
 }
 ```
+##
 
+## ScreenShoot
 
 ![fileONe.jpeg](https://github.com/kenjimaeda54/plain-edit-QT/blob/develop/fileOne.jpeg)
 ![fileTwo.jpeg](https://github.com/kenjimaeda54/plain-edit-QT/blob/develop/fileTwo.jpeg)
